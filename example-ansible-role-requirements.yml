@@ -13,6 +13,3 @@
 - name: ceph-rgw
   src: https://github.com/ceph/ansible-ceph-rgw.git
   #version:
-- name: ceph-restapi
-  src: https://github.com/ceph/ansible-ceph-restapi.git
-  #version:
